@@ -2,7 +2,7 @@
 <html lang="es">
 
 <head>
-    <title>Azahara Escribano Carvajal - Piedra, Papel o Tijera (Versión de prueba)</title>
+    <title>e2285ac3</title>
     <?php require_once "bootstrap.php"; ?>
     <meta charset="UTF-8">
 </head>
