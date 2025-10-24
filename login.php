@@ -35,7 +35,7 @@ if (isset($_POST['who']) && isset($_POST['pass'])) {
 <head>
     <?php require_once "bootstrap.php"; ?>
     <meta charset="UTF-8">
-    <title>Azahara Escribano Carvajal - Iniciar sesión</title>
+    <title>e2285ac3</title>
 </head>
 
 <body>
