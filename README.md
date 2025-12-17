@@ -54,15 +54,15 @@ rps/
 
 ## 🔒 Seguridad
 
-- La contraseña está hasheada con MD5 y salt
+- Sistema de autenticación con contraseña hasheada
 - Protección de sesiones para evitar acceso no autorizado
 - Sanitización de salida con htmlentities()
 
+⚠️ **Nota de Seguridad**: Este es un proyecto educativo. Para aplicaciones de producción, se recomienda usar algoritmos de hash más seguros como bcrypt o Argon2.
+
 ## 📝 Notas
 
-- Contraseña por defecto: `meow123`
-- Salt utilizado: `XyZzy12*_`
-- Hash almacenado: `a8609e8d62c043243c4e201cbb342862`
+- Contraseña por defecto: `meow123` (ver comentarios en el código fuente)
 
 ## 🌐 Referencias
 
